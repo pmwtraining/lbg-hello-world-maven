@@ -1,7 +1,7 @@
 package com.qa;
 
 /**
- * Hello world!
+ * Hello world! from Peter
  *
  */
 public class App 
